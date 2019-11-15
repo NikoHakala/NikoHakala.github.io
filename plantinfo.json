@@ -3,6 +3,8 @@
     "type":           "Sipuli",
     "description":    "Sipulilajike joka maistuu hyvältä",
     "imagefile":      "../Photos/valkosipulivk1.jpeg",
+    "wpump1":          "11.10.2019",
+    "npump1":          "12.10.2019",
     "logfile_output": "/path/to/plant/log/file.log",
     "istutuspv":      "10.10.2019",
 
