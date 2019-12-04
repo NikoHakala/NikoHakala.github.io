@@ -1,0 +1,39 @@
+{
+    "system_file": { "loglevel": "INFO", "msg": {"info": "file created", "user": "kasviloordi", "file": "/var/log/tinyforest/tinyforest.log.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "system.py", "func": "init_file", "line": 299 }
+    ,
+    "system_file": { "loglevel": "INFO", "msg": {"info": "file opened", "user": "kasviloordi", "file": "/var/log/tinyforest/tinyforest.log.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "system.py", "func": "init_file", "line": 299 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Moisture sensor (1)", "description": "loaded JSON configuration", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "json_check": { "loglevel": "WARNING", "msg": {"description": "Light sensor (1): output device UV lamp (1) disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "check_devices_out", "line": 307 }
+    ,
+    "sensor": { "loglevel": "WARNING", "msg": {"name": "Light sensor (1)", "description": "disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 307 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Temperature sensor (1)", "description": "loaded JSON configuration", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "json_check": { "loglevel": "WARNING", "msg": {"description": "pH sensor (1): output device Fertilizer pump (1) disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "check_devices_out", "line": 307 }
+    ,
+    "sensor": { "loglevel": "WARNING", "msg": {"name": "pH sensor (1)", "description": "disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 307 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Moisture sensor (1)", "description": "started process", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Temperature sensor (1)", "description": "started process", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 47, "second": 29 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "system_file": { "loglevel": "INFO", "msg": {"info": "file opened", "user": "kasviloordi", "file": "/var/log/tinyforest/tinyforest.log.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "system.py", "func": "init_file", "line": 299 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Moisture sensor (1)", "description": "loaded JSON configuration", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "json_check": { "loglevel": "WARNING", "msg": {"description": "Light sensor (1): output device UV lamp (1) disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "check_devices_out", "line": 307 }
+    ,
+    "sensor": { "loglevel": "WARNING", "msg": {"name": "Light sensor (1)", "description": "disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 307 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Temperature sensor (1)", "description": "loaded JSON configuration", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "json_check": { "loglevel": "WARNING", "msg": {"description": "pH sensor (1): output device Fertilizer pump (1) disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "check_devices_out", "line": 307 }
+    ,
+    "sensor": { "loglevel": "WARNING", "msg": {"name": "pH sensor (1)", "description": "disabled", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 307 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Moisture sensor (1)", "description": "started process", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+    ,
+    "sensor": { "loglevel": "INFO", "msg": {"name": "Temperature sensor (1)", "description": "started process", "source": "/etc/tinyforest/json/profile_plant1_v01.json"}, "time": { "day": 22, "month": 11, "year": 2019, "hour": 1, "minute": 49, "second": 12 }, "host": "fincer-laptop", "file": "jsonreader.py", "func": "__init__", "line": 299 }
+}
